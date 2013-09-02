@@ -54,7 +54,7 @@ Remove event handlers from the given emitter or all emitters if not specified.
 
 ### .destroy()
 
-Augments or creates a `destroy` method to call `unlisten()`.
+Calls `unlisten()`.  Any existing `destroy` method is called first.
 
 ## License
 
