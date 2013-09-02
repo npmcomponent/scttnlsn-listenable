@@ -1,0 +1,18 @@
+{
+    "name": "listenable",
+    "version": "0.1.0",
+    "description": "Add event handler tracking to an object",
+
+    "dependencies": {
+        "component/bind": "*",
+        "component/each": "*",
+        "scttnlsn/advice": "*"
+    },
+
+    "development": {
+        "component/assert": "*",
+        "component/emitter": "*"
+    },
+
+    "scripts": ["index.js"]
+}
