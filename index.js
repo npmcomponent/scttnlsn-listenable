@@ -1,6 +1,6 @@
-var advice = require('advice');
-var bind = require('bind');
-var each = require('each');
+var advice = require('scttnlsn-advice');
+var bind = require('component-bind');
+var each = require('component-each');
 
 module.exports = function (obj) {
     obj || (obj = {});

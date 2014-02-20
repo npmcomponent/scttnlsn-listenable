@@ -1,0 +1,10 @@
+{
+  "name": "scttnlsn-listenable",
+  "description": "Add event handler tracking to an object",
+  "version": "0.1.0",
+  "dependencies": {
+    "component-bind": "git://github.com/npmcomponent/component-bind.git",
+    "component-each": "git://github.com/npmcomponent/component-each.git",
+    "scttnlsn-advice": "git://github.com/npmcomponent/scttnlsn-advice.git"
+  }
+}
